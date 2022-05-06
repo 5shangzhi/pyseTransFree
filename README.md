@@ -7,6 +7,8 @@ Checkout the *deepl.cfg* and *deepl-jp2zh.cfg* files. What you should change is 
 
 > usage:
 > 
+> $ pip install webdriver-manager
+> 
 > $ python pyseDeepL.py -c deepl.cfg -f ~/Documents/text-in-en.txt -o ~/Documents/text-in-zh.txt
 
 Now, it only supports DeepL.com and TXT file format. 
